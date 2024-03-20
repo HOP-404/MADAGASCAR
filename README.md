@@ -1,3 +1,4 @@
+```python
 rm -rf MADAGASCAR
 
 git clone https://github.com/HOP-404/MADAGASCAR.git
@@ -5,3 +6,6 @@ git clone https://github.com/HOP-404/MADAGASCAR.git
 cd MADAGASCAR
 
 python RANDOM-FIRE.py
+
+```
+Note: (This Tools Are Paid)
